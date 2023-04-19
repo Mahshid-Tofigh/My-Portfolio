@@ -1,0 +1,43 @@
+.col-sm-6 img {
+    width: 300px;
+}
+
+.col-sm-3 img {
+    width: 150px;
+}
+
+.col-sm-3 .icons {
+    width: 100px;
+    display: inline-block;
+}
+
+.col-sm-3 .java {
+    width: 100px;
+}
+
+.jumbotron {
+    background-color: black;
+    color: rgb(234, 234, 28);
+}
+
+.navbar {
+    background-color: rgb(228, 228, 127);
+    
+}
+
+body {
+    background-color: rgb(228, 228, 127);
+}
+
+.navbar a {
+    color: black;
+}
+
+.center {
+    display:flex;
+    /* items are centered along the line */
+    justify-content: center;
+    /* center: items are centered in the cross-axis */
+    align-items: center;
+}
+
